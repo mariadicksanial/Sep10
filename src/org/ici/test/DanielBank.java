@@ -9,6 +9,10 @@ public class DanielBank {
 		}
 			public void Deposit() {
 				System.out.println("7%");
+			}
+		public void credid() {
+			System.out.println("3%");
+		
 			}}
 
 
