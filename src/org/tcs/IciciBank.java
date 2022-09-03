@@ -15,6 +15,9 @@ public class IciciBank extends DanielBank {
 		h.savings();
 		h.Deposit();
 		h.credid();
+		h.depit();
+
+
 
 		
 	}
